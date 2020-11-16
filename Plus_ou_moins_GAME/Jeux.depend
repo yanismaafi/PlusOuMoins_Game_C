@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1503741539 source:/home/yanis/Bureau/Jeux/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1504867702 source:/home/yanis/Bureau/Langage C/Jeux/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1504867702 source:/media/yanis/HP V135W/Langage C/Jeux/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1504867702 source:g:\usb\langage c\jeux\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
